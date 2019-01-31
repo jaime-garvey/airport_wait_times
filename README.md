@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Trump Effect on the US Stock Market
 
 ## Question
@@ -6,7 +7,7 @@
 
 ## Datasets
 * Yahoo Finance Financial Data
+* [DJIA HIstorical Data](https://www.investing.com/indices/us-30-historical-data)
 * Trump Twitter Archive
 * Google Trends Data
 * Five Thirty Eight Trump Approval Rating Data
-
